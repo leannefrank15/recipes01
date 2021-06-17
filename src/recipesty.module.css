@@ -1,0 +1,16 @@
+.imgsty {
+  border-radius: 15px;
+}
+
+.recipe_name {
+  color: rgb(255, 247, 230);
+  font-style: italic;
+}
+
+.caloriez {
+  font-size: 20px;
+  font-weight: 500;
+}
+.ings {
+  color: rgb(24, 22, 22);
+}
